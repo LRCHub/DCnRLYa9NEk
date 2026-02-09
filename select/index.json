@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "メルティランドナイトメア（feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク）",
+  "base_artist": "MORE MORE JUMP！",
+  "createdAt": "2026-02-09T14:33:10.328155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メルティランドナイトメア (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_メルティランドナイトメア_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メルティランドナイトメア (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/pl_01_メルティランドナイトメア_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.txt"
+    }
+  ]
+}
